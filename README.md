@@ -1,6 +1,6 @@
 # Anakin Childerhose
 
-Yes I was named after star wars, I have a cool family
+Yes I was named after Star Wars, I have a cool family
 
 Obsessed with all things Linux, Yocto, and (Neo)Vim
 
